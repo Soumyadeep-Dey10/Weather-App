@@ -78,10 +78,3 @@
 .icon {
     margin-right: 10px;
 }
-@media screen and (max-width:830px){
-    .container{
-        left: 0%;
-        right:0%;
-        max-width: 500px;
-    }
-}
